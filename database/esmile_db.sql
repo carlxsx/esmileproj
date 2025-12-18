@@ -138,9 +138,6 @@ CREATE TABLE `contact_submissions` (
 --
 
 INSERT INTO `contact_submissions` (`id`, `name`, `email`, `subject`, `message`, `submission_timestamp`) VALUES
-(1, 'Carl Adrian Cabral', 'carladriancabral1@gmail.com', 'hey there', '123', '2024-12-16 09:07:46'),
-(2, 'Carl Adrian Cabral', 'carladriancabral1@gmail.com', 'hey there', '123', '2024-12-16 09:15:21'),
-(3, 'Carl Adrian Cabral', 'carladriancabral1@gmail.com', 'hey there', 'dddfasdfasdfasdf', '2024-12-16 09:15:34'),
 (4, 'lay brawn', 'king@mail.com', 'asdlasdjk', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.\r\n', '2024-12-16 09:17:17');
 
 -- --------------------------------------------------------
